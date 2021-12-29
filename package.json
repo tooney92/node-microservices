@@ -1,5 +1,5 @@
 {
-  "name": "node-microservices",
+  "name": "main-microservices",
   "version": "1.0.0",
   "description": "a nodejs microservice with an emQT broker",
   "main": "app.js",
