@@ -8,6 +8,10 @@ const productSchema: Schema = new Schema({
         type:String,
         default: "none"
     },
+    admin_id:{
+        type:String,
+        unique: true
+    },
     likes: {
         type: Number,
         default: 0
